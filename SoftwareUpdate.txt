@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
