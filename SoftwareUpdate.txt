@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Resize angle, count, and stage on keypoint number change (#7598)
