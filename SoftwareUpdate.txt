@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Move Explorer tests to scheduled CI (#8305)
