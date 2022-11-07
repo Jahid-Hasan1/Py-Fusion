@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
