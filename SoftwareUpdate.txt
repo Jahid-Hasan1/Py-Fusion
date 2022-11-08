@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
