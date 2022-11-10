@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
