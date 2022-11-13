@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
