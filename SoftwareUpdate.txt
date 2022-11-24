@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
