@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add YouTube iframe loading=lazy (#8001)
