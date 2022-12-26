@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
