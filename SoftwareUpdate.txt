@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Fix docker.yaml double-quote version bug (#7452)
