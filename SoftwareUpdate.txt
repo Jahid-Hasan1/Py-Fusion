@@ -1,1 +1,1 @@
-fix predict with class filter
+Clarify triton server boolean value (#8532)
