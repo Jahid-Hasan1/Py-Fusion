@@ -1,1 +1,1 @@
-fix predict with class filter
+Add simple-utilities.md Docs page (#8269)
