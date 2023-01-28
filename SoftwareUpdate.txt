@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Docs partial mdformat improvements (#7378)
