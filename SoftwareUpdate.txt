@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add quantization support to TensorFlow.js converter (#7008)
