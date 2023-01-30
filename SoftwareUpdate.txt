@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fix Yolo 8.0.206 scale bug (#7821)
