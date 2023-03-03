@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+fix yolo classify model loading error (#9196)
