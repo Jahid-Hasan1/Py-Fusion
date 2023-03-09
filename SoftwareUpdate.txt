@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
