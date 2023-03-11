@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
