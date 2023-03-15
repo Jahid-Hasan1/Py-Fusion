@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
