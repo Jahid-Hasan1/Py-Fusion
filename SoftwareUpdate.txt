@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Merge pull request #22 from SkalskiP/patch-1
