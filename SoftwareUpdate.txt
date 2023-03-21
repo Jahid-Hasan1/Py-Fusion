@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fixed RTDETR GFLOPs bug (#7309)
