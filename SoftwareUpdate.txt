@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
