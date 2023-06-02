@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
