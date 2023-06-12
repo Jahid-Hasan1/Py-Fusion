@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Faster batch same_shapes (#8851)
