@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
