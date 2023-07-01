@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
