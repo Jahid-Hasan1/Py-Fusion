@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Pass callbacks to validator (#7320)
