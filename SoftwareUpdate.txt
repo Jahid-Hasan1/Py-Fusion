@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update CITATION.cff with cffinit corrections (#8658)
