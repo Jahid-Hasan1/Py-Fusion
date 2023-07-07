@@ -1,1 +1,1 @@
-fix print val map
+Faster batch same_shapes (#8851)
