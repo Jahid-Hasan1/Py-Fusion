@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Feature: Create HUB Models from CLI or Python Script (#7316)
