@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update CITATION.cff with cffinit corrections (#8658)
