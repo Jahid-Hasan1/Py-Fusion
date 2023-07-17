@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
