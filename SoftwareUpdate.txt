@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.0.228 add training time argument (#7054)
