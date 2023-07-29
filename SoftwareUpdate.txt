@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
