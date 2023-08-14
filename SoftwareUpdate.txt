@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
