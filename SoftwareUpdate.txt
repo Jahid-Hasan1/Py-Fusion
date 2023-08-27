@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix Multi-GPU resume bug (#7328)
