@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Update Colab notebook for YOLOv8.1 (#8660)
