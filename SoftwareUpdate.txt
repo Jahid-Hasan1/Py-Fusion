@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+ultralytics 8.1.27 batched tracking fixes (#8842)
