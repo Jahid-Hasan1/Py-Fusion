@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+fix predict with class filter
