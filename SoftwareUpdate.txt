@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Updated SQL Query Plot Code (#8120)
