@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Optimize function calls to method calls (#8507)
