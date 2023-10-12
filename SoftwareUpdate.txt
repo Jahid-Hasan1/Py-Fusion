@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Batch inference fixes (#8854)
