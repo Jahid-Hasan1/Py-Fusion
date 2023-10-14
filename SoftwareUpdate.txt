@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add YOLOv8 LibTorch C++ inference example (#7090)
