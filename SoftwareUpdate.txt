@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Remove unused variables (#8511)
