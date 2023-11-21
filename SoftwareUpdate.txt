@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
