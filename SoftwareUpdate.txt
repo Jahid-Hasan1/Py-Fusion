@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Explorer with LanceDB, Actions and Docs updates (#7487)
