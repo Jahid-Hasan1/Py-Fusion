@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Avoid creating -hub dir without processing images (#8334)
