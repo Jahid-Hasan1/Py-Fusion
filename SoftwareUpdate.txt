@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add dota8.yaml and O tests (#7394)
