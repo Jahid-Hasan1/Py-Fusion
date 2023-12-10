@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add bgr hyperparameter (#9139)
