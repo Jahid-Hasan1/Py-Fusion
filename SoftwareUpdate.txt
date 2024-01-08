@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Segment TensorRT batch=3 fix (#7952)
