@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Optimize function calls to method calls (#8507)
