@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Updating a typo on paddlepaddle.md (#9108)
