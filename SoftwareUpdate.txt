@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
