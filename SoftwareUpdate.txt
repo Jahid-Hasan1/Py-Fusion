@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+OpenVino 2024.0.0 (#8726)
