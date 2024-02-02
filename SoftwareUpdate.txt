@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Update Discord and Contributing Guide URLs (#9270)
