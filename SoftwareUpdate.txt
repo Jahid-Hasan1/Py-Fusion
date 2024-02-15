@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
