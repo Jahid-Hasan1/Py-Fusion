@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
