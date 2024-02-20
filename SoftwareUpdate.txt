@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Compare plt.get_backend() in lowercase (#8409)
