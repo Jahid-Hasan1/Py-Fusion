@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update HTTP to HTTPS (#7548)
