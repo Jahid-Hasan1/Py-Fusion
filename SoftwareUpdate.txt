@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Fix TypeError in check_cfg() (#9245)
