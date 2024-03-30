@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Replacing Images for torchscript.md (#8596)
