@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
