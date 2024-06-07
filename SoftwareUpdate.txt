@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add visuals in guides/distance-calculation.md (#7876)
