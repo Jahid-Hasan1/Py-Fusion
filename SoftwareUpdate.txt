@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Update docs building code (#7601)
