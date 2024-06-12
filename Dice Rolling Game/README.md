@@ -26,9 +26,6 @@ In the main() function, a while loop is used to create a game loop. The user is 
 Output:
 The output of the script will be displayed in the terminal or command prompt. It will show the dice roll results for both the user and the AI and announce the winner of each round. The game continues until the user decides to quit by pressing 'q'. The AI's roll will be accompanied by a delay to simulate its processing time before displaying the result.
 
-Author(s):
-Author: Shikhar9425
-
 
 
 

@@ -20,4 +20,3 @@ tracks your product price.
 - It returns The Tracking price of your product and it sends email and whatsapp message when your product price decreases
 at best least price.
 
-#### By [Avinash Kr. Ranjan](https://github.com/avinashkranjan) 

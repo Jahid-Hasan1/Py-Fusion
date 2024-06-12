@@ -14,4 +14,3 @@ Detect your Body with this
 - Then it will detect your Body using the fullbody cascade xml file
 - Then you could see green rectangle boxes appearing which is detecting your body
 
-#### By [Avishake Maji](https://github.com/Avishake007) 

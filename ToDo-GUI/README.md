@@ -28,9 +28,6 @@ depending upon the python version. Make sure that you are running the command fr
 Now you are all set to explore the ToDo App. Happy Hacking!!!!!!
 
 
-## Author
-[a-k-r-a-k-r](https://github.com/a-k-r-a-k-r)
-
 
 ## Reporting Bugs
 Feel free to report any buys or issues.

@@ -34,12 +34,3 @@ Instructions on how to use them in your own application are linked below.
 | CV2 | [https://pypi.org/project/opencv-python/][PlDb] |
 | PIL | [https://pypi.org/project/Pillow/][PlGh] |
 | CLAHE | [https://pypi.org/project/clahe/][PlGd] |
-
-## Author
-[Lakhan Kumawat](https://github.com/Lakhankumawat)
-
-
-   [PlDb]: <https://pypi.org/project/opencv-python/>
-   [PlGh]: <https://pypi.org/project/Pillow/>
-   [PlGd]: <https://pypi.org/project/clahe/>
-   

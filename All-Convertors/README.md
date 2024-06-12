@@ -41,10 +41,5 @@ use python 3 and above to use this **ALL IN ONE - CONVERTORS** program.
 
 <br>
 
-## Created By 👦
-
-[Avdhesh Varshney](https://github.com/Avdhesh-Varshney)
-
-<br>
 
 ### Happy Coding !

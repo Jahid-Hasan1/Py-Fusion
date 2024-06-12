@@ -38,11 +38,3 @@ You can customize various aspects of the game by modifying the following constan
 Feel free to modify these constants to customize the game according to your preferences.
 
 Enjoy playing The Snake Game!
-
-## Output
-
-![Screenshot](https://github.com/avinashkranjan/Amazing-Python-Scripts/raw/scipt/path/to/Screenshot%202023-05-25%20122921.png)
-
-## Author(s)
-
-[Akanksha Jha](https://github.com/Akanksha-202) 
