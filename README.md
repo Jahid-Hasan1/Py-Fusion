@@ -7,3 +7,4 @@
 - [BitCoin Mining](<BitCoin Mining>)
 - [Cartooning Image](<Cartooning Image>)
 - [CNN Scraper](<CNN Scraper>)
+- [Body Detection](<Body Detection>)
