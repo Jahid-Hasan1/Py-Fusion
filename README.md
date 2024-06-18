@@ -9,4 +9,5 @@
 - [CNN Scraper](<CNN Scraper>)
 - [Body Detection](<Body Detection>)
 - [Dice Rolling Game](<Dice Rolling Game>)
-- 
+- [Dice-Roll-Simulator](Dice-Roll-Simulator)
+- [hexCalculator](hexCalculator)
