@@ -13,3 +13,5 @@
 - [hexCalculator](hexCalculator)
 - [Image Processing](<Image Processing>)
 - [Photo To Ascii](<Photo To Ascii>)
+- [TheSnakeGame](TheSnakeGame)
+- [ToDo-GUI](ToDo-GUI)
