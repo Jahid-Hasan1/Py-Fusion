@@ -15,3 +15,5 @@
 - [Photo To Ascii](<Photo To Ascii>)
 - [TheSnakeGame](TheSnakeGame)
 - [ToDo-GUI](ToDo-GUI)
+- [Food Detector](<Food Detector>)
+- [Language Detection](<Language Detection>)
