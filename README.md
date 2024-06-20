@@ -19,3 +19,4 @@
 - [Language Detection](<Language Detection>)
 - [Codebreaker Game with AI](<Codebreaker Game with AI>)
 - [CNN Scraper](<CNN Scraper>)
+- [Broswer](Broswer)
