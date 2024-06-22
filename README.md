@@ -20,3 +20,6 @@
 - [Codebreaker Game with AI](<Codebreaker Game with AI>)
 - [CNN Scraper](<CNN Scraper>)
 - [Broswer](Broswer)
+- [Image bg remover](<Image bg remover>)
+- [Amazon-Price-Tracker](Amazon-Price-Tracker)
+- 
