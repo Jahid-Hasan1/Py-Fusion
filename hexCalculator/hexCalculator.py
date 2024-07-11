@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 def hex_add():
     try:
         num1 = int(entry1.get(), 16)
@@ -51,7 +50,7 @@ entry1.grid(row=0, column=0, padx=10, pady=5)
 entry2 = tk.Entry(root, width=15)
 entry2.grid(row=0, column=1, padx=10, pady=5)
 
-# Buttons
+# Buttons for conversion
 add_button = tk.Button(root, text="Add", command=hex_add)
 add_button.grid(row=1, column=0, padx=10, pady=5)
 subtract_button = tk.Button(root, text="Subtract", command=hex_subtract)
