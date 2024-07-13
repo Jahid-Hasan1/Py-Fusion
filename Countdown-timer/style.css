@@ -1,0 +1,90 @@
+body{
+  
+    font-family: 'Dancing Script';
+    text-align: center;
+    background-color: rgb(7, 8, 8);
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    
+}
+
+.image{
+    max-block-size: 20px;
+}
+div{
+    font-family: 'Dancing Script';
+}
+.text{
+    font-size: 24px ;
+    font-family: 'Dancing Script';
+    color: rgb(82, 68, 68);
+
+}
+
+.rainbow-text{    
+    text-align: justify;
+    margin-top: 100px;
+    color: transparent;
+    font-family: 'Dancing Script';
+    display: inline;
+    background-image: url(0df271520c799c3bc8f8a8842bf37adf.gif);
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: rainbowAnimation 5s infinite;
+    font-size:  55px;
+}
+        @keyframe rainbowAnimation{
+        0%{
+            background-position: 0% 50%;
+        }
+        50%{
+            background-position: 100% 50%;
+        }
+        100%{
+            background-position: 0%, 50%;
+        }
+        }
+    
+.countdown-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.box-gif{    
+    text-align: justify;
+    
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 24px;
+    color: transparent;
+    display: inline;
+    font-family: 'Indie Family';
+    background-image: url(0df271520c799c3bc8f8a8842bf37adf.gif);
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: rainbowAnimation 5s infinite;
+    font-size:  75px;
+}
+        @keyframe rainbowAnimation{
+        0%{
+            background-position: 0% 50%;
+        }
+        50%{
+            background-position: 100% 50%;
+        }
+        100%{
+            background-position: 0%, 50%;
+        }
+        }
